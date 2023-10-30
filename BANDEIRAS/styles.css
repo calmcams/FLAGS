@@ -1,0 +1,145 @@
+*{
+    margin:0;
+}
+
+html{
+    background-color: rgb(164, 164, 240);
+}
+
+h1 {
+    background-color: rgb(92, 92, 223);
+}
+
+body{
+    background-color: rgb(179, 179, 224);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.germany1{
+    width: 1400px;
+    height: 250px;
+    background-color: black;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    position: absolute;
+}
+
+.germany2{
+    width: 1400px;
+    height: 250px;
+    background-color: red;
+    top: 250px;
+    position: relative;
+}
+
+.germany3{
+    width: 1400px;
+    height: 250px;
+    background-color: yellow;
+    top: 250px;
+    position: relative;
+}
+
+
+.nigeria1{
+    width: 460px;
+    height: 800px;
+    background-color: rgb(26, 107, 26);
+    top: 20px;
+    left: 20px;
+    position: absolute;
+}
+
+.nigeria2{
+    width: 460px;
+    height: 800px;
+    background-color: white;
+    left: 460px;
+    position: relative;
+}
+
+.nigeria3{
+    width: 460px;
+    height: 800px;
+    background-color: rgb(26, 107, 26);
+    left: 460px;
+    position: relative;
+}
+
+.japan-retangle{
+    width: 1500px;
+    height: 750px;
+    background-color: white;
+    top: 20px;
+    left: 20px;
+    position: absolute;
+}
+
+.japan-circle{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    top: 170px;
+    left: 500px;
+    position: relative;
+    border-radius: 50%;
+}
+
+.lesbian1{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(226, 87, 7);
+    top: 20px;
+    left: 20px;
+    position: absolute;
+}
+
+.lesbian2{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(243, 134, 33);
+    top: 100px;
+    position: relative;
+}
+
+.lesbian3{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(233, 163, 97);
+    top: 100px;
+    position: relative;
+}
+
+.lesbian4{
+    width: 1500px;
+    height: 100px;
+    background-color: white;
+    top: 100px;
+    position: relative;
+}
+
+.lesbian5{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(206, 118, 206);
+    top: 100px;
+    position: relative;
+}
+
+.lesbian6{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(206, 77, 206);
+    top: 100px;
+    position: relative;
+}
+
+.lesbian7{
+    width: 1500px;
+    height: 100px;
+    background-color: purple;
+    top: 100px;
+    position: relative;
+}
